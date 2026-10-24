@@ -94,8 +94,6 @@ The 3D geometry and mechanical kinematics for this build are based on the fantas
 
 **Rupesh H. Thakur**
 
-🎓 BSc.IT Student, Thakur College of Science and Commerce
-
 🔗 [GitHub – @Rupesh6786](https://github.com/Rupesh6786)
 
 📧 Email: 55rupeshthakur@gmail.com
