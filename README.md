@@ -107,9 +107,3 @@ This project is licensed under the **MIT License**.
 See the [LICENSE](https://www.google.com/search?q=https://github.com/Rupesh6786/esp_quadruped_robot/blob/main/LICENSE) file for more information.
 
 ---
-
----
-
-Would you like any adjustments to the pin allocations or specific sections in this layout?
-
-```
