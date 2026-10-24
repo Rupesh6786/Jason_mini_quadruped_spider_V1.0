@@ -13,7 +13,7 @@ The robot utilizes **8 servos** (2 per leg) to achieve realistic "spider-like" a
 
 | Assembled Quadruped | Wireframe CAD | Electronics & Servos |
 | :---: | :---: | :---: |
-| ![Image 1](image1.png) | ![Image 2](image2.png) | ![Image 3](image3.png) |
+| ![Image 1](image1.webp) | ![Image 2](image2.webp) | ![Image 3](image3.png) |
 
 ---
 
